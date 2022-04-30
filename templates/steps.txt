@@ -1,0 +1,19 @@
+################# Start Application #########################
+
+1. Open XAMPP application and start apache and mysql server
+2. open cmd and go to directory :  C:\Users\vysy\Desktop\final submission\project\Retinal-Fundus-Analyser>
+3. run command : venv\Scripts\activate
+4. run command : python app.py
+5. Go to chrome and open link : localhost:5000
+6. Give username and password as below 
+    username : pd 
+    password : pd
+7. search for customer id 1 
+8. here you can upload any retinal image and click on Analyze button 
+
+############## Stop Application ##############################
+
+1. Go to XAMPP application and stop apache and mysql server and close XAMPP app
+2. Go back to CMD and press CTRL + C 
+3. run command : venv\Scripts\deactivate
+4. close CMD 
